@@ -1,5 +1,5 @@
 # Shopping-list
-Angular Made project 
+Angular Made project with Rxjs and Js
 
 An application to add items to the shopping list view them and adjust the ingredients in it .
  
